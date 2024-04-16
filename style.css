@@ -1,5 +1,6 @@
 /* Create a CSS file (`styles.css`) to style your task manager: */
 body {
+ background-colour: aliceblue;
 font-family: Arial, sans-serif;
 margin: 0;
 padding: 0;
